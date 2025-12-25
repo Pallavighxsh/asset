@@ -1,0 +1,5 @@
+requests
+python-dotenv
+serpapi
+Pillow
+tk
