@@ -1,7 +1,8 @@
 # 📁 ASSET — Image Research & Reference Collector
 
 
-**Asset** is a lightweight tool made for **creators, designers, marketers, and content researchers** to quickly gather visual references during brainstorming or content development.  
+**Asset** is an image research tool made for **creators, designers, marketers, and content researchers** to quickly gather visual references during brainstorming or content development. 
+
 It pulls image results via **SerpAPI**, caches them for later access, and opens a **keyboard-controlled image viewer** where you can browse, filter visually, and selectively save only what you want — making research fast, organized, and clutter-free.
 
 
